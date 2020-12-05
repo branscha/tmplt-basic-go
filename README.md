@@ -18,4 +18,3 @@ Template for jump starting go projects.
        -goparam2 duo \
        ...
 
- * The only parameter is the listening port.
