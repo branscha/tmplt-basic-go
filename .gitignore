@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Other
+*.log
+Thumbs.db
+.DS_Store
