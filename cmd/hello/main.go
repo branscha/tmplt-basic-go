@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-        "github.com/branscha/hello/util"
+	"github.com/branscha/hello/internal/util"
 )
 
 func main() {
